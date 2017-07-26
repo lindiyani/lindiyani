@@ -4,6 +4,6 @@
 	<title>guru</title>
 </head>
 <body>
- ini halaman guru
+ ini halaman gurudsssggg
 </body>
 </html>
